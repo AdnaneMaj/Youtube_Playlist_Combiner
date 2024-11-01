@@ -1,5 +1,3 @@
-
-```markdown
 # YouTube Playlist Combiner
 
 Combine YouTube playlist videos into a single compilation effortlessly.
