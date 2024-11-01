@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
 2. **Navigate to the project directory** in your terminal:
 
    ```sh
-   cd YouTube-Playlist-Combiner
+   cd YouTube_Playlist_Combiner
    ```
 
 3. **Create a Python virtual environment (venv):**
