@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository** to your local machine:
 
    ```sh
-   git clone https://github.com/yourusername/YouTube-Playlist-Combiner.git
+   git clone https://github.com/LikithMeruvu/Youtube_Playlist_Combiner.git
    ```
 
 2. **Navigate to the project directory** in your terminal:
